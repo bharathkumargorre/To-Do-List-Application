@@ -20,59 +20,6 @@ A simple Console-Based To-Do List Application developed using Python. This proje
 * Lists
 * String Manipulation
 
-## Project Structure
-
-```text
-ToDo_List_App/
-│
-├── todo.py
-├── tasks.txt
-└── README.md
-```
-
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/bharathkumargorre/To-Do-List-Application.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd To-Do-List-Application
-```
-
-3. Run the application:
-
-```bash
-python todo.py
-```
-
-## Sample Menu
-
-```text
-========================
-     TO-DO LIST APP
-========================
-1. Add Task
-2. View Tasks
-3. Remove Task
-4. Exit
-```
-
-## Key Concepts Demonstrated
-
-* File Handling (`open()`)
-* Exception Handling (`try-except`)
-* Lists and List Operations
-* Functions
-* Loops and Conditional Statements
-* Context Managers (`with` statement)
-
-## Learning Outcomes
-
 Through this project, I learned:
 
 * How to store data permanently using files
@@ -81,8 +28,5 @@ Through this project, I learned:
 * Handling user input and exceptions
 * Writing clean and reusable Python code
 
-## Author
-
-**G. Bharath Kumar**
-
-Python Developer Internship Task 2
+## Author:
+G. Bharath Kumar
